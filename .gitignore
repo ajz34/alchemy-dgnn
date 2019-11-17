@@ -1,3 +1,13 @@
+# ajz34
+.idea
+Data
+raw
+raw-sdf
+processed
+*.pt
+*.log
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
