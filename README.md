@@ -2,7 +2,7 @@
 
 当前目录是我参加 [Alchemy 竞赛](https://alchemy.tencent.com/) 所使用的程序。
 但这个程序只是一个 **范例程序**，只使用 Alchemy 数据集的 2% 进行训练与验证。
-完整的程序应当不难从范例程序进行更改得到。同时，提交竞赛时所使用的参数可以在 [docs/prog_train_multinet.html](docs/prog_train_multinet.html) 看到。
+完整的程序应当不难从范例程序进行更改得到。同时，提交竞赛时所使用的参数可以在 [prog_train_multinet.ipynb](prog_train_multinet.ipynb) 看到。
 
 竞赛名次：23/53
 
